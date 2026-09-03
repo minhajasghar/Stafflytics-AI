@@ -4,12 +4,6 @@ Stafflytics AI is a professional-grade, AI-powered business intelligence system 
 
 > 🔒 **This is a showcase repository.** Stafflytics AI's source code is kept private. This README documents the system's architecture, features, and tech stack. A full walkthrough/demo video is below, with further details available on request.
 
-## 🎥 Demo
-
-https://github.com/user-attachments/assets/0bb3425f-c55c-4938-8154-3b8c2b7f201c
-
-*A walkthrough of live staff tracking, automated attendance, and the reporting dashboard in action.*
-
 ## ✨ Key Features
 - **Intelligence Monitor**: Real-time video stream with AI-driven bounding boxes and activity labeling.
 - **Vision Engine**: Powered by YOLOv8-Pose for movement analysis and `face_recognition` for automated staff/visitor identification.
